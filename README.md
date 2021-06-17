@@ -1,2 +1,2 @@
 # euler
-Project Euler challenges
+Project Euler challenges will go here
